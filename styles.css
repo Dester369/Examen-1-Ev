@@ -1,0 +1,89 @@
+
+
+
+div.titulo{
+    margin-top: 0%;
+    text-align: center;
+    background-color: orange;
+    height: 100px;
+}
+
+h1{
+    
+    color: white;
+   
+}
+
+p.links{
+    background-color: aqua;
+}
+
+
+
+body{
+    background-color: orange;
+}
+
+div.info{
+ 
+    background-color: white;
+    border-bottom: 20px solid blue;
+    border-top: 20px solid blue;
+   font-size: 14px;
+   color: blue;
+}
+
+div.fondo1{
+    background-color: white;
+}
+
+
+img.steve{
+    float: left;
+    width: 200px;
+    height: 175px;
+    margin-bottom: 1px;
+    margin-top: 19px;
+
+}
+
+
+
+div.fondo3 {
+background-color: cadetblue;
+
+}
+
+div.fondo4{
+    border-bottom: solid red 20px;
+    border-top: solid red 20px;
+    
+    
+}
+
+
+img.mac{
+    float: right;
+    height: 160px;
+}
+
+
+div.fondo5{
+    background-color: rgb(240, 95, 42);
+}
+
+footer{
+    background-color: pink;
+}
+
+p.footer{
+    text-align: center;
+    
+}
+span.serv{
+    background-color: yellow;
+}
+
+span.lunes{
+line-height: 20px;
+}
